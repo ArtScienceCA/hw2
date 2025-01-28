@@ -8,3 +8,5 @@ In a single jupyter notebook file named `hw2.ipynb` create the following:
 4. Using your code from 3, write a function `lagGenerator` that returns - a function - that lags by a specific amount. So`lagGenerator(2)` creates a function that lags a vector by 2.  Use the `lambda` operator in python.
 
 Write your code in a single jupyter notebook called hw2.ipynb
+
+410 955 3504, psword 3610
